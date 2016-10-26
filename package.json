@@ -1,0 +1,14 @@
+{
+  "name": "lennyface",
+  "version": "1.0.0",
+  "description": "The Lenny face CLI",
+  "main": "cli.js",
+  "bin": {
+  	"lennyface": "cli.js"
+  },
+  "scripts": {
+    "test": "node cli.js"
+  },
+  "author": "Lykakspars <lykaspars@gmail.com>",
+  "license": "MIT"
+}
