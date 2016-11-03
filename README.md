@@ -2,7 +2,7 @@
 The lenny face CLI
 
 # Example
-`console.log(require('lennyface'));`
+`lennyface` (Make sure, it's UTF!) or `console.log(require('lennyface'));`
 
 # Installation
 1. Open up node.js Command prompt
