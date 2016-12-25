@@ -1,6 +1,6 @@
 {
   "name": "lennyface",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The Lenny face CLI",
   "main": "cli.js",
   "bin": {
